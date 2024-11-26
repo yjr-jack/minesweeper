@@ -1,1 +1,2 @@
-This is a minesweeper program.
+此仓库保存了一个扫雷程序
+棋盘的行列数和雷数可以通过a.h的宏定义来控制
