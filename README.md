@@ -1,1 +1,1 @@
-This is a minesweeper game.
+Some minesweeper games.
